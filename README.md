@@ -17,7 +17,7 @@ The objective of the tasks consisted of point below:
 The dataset consists of data of e-commerce traffic that occured within October and November in 2019.   
 
 ## Task 
-Before running data_cleansing.sh, make sure csvkit had already been installed in WSL and datasets were stored in folder 'data'
+Before running data_cleansing.sh, make sure csvkit had already been installed in WSL and datasets were stored in folder 'data'.
 The file consists of following tasks:
 
 1 Combine two files data 
