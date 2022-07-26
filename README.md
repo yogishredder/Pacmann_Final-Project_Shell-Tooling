@@ -56,7 +56,4 @@ sort | uniq -c | sort -nr
 
 - [@Prayogi Adista](https://www.linkedin.com/in/prayogi-adista-purwanto-89878476/)
 
-## Optimizations
-
-What optimizations did you make in your code? E.g. refactors, performance improvements, accessibility
 
